@@ -2,7 +2,7 @@
  
 I am very passionate about web development and love seeing my work improve the bottom line and increase conversions. Self-directed and not afraid to offer feedback on how functionality or design can be improved on your project. I also provide responsive, high-quality services that free you to focus on other aspects of your business.
  
-✨ Main skills ✨
+Main skills:
 - PHP, Laravel, Symfony, CodeIgniter, Yii
 - WordPress, Drupal, Magento, Joomla
 - JavaScript, TypeScript, React, Vue.js, Node.js
