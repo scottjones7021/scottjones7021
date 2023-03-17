@@ -1,6 +1,6 @@
 ## About Me
  
-I'm an experienced web developer with over 10 years of experience and I have developed SaaS and CRM solutions using PHP and JavaScript technologies including Laravel, React, and Vue.js. Before that, I was building WordPress, Drupal, and custom PHP websites. High-speed coding with best practices that meet project requirements is my pleasure. Below you can see my skills in detail:
+I'm an experienced web developer with over 7 years of experience and I have developed SaaS and CRM solutions using PHP and JavaScript technologies including Laravel, React, and Vue.js. Before that, I was building WordPress, Drupal, and custom PHP websites. High-speed coding with best practices that meet project requirements is my pleasure. Below you can see my skills in detail:
 
 I'm a responsible person who always performs the work from start to finish and liaises with the client throughout the development phase. I'm always happy to advise on a particular technology and explain its benefits. I'm also ready to learn new technologies if it is necessary for the project and its successful implementation.
 
