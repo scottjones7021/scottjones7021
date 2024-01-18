@@ -1,26 +1,26 @@
 ## About Me
  
-I bring over 10 years of experience in building web applications and have expertise in PHP/Laravel and Vue.js/React. My proficiency in both front-end and back-end technologies enables me to design and implement robust solutions that deliver seamless user experiences.
+I'm a Full Stack PHP Developer with over 10 years of experience, specifically have expertise in Laravel, Vue.js, and React. I've worked on different projects, and I know how to make websites and apps that do what they're supposed to do.
 
-My skills & experience:
+I'm also good at working with other people in a team and always love learning about new technologies. If you're looking for someone like me to help with your projects, let's chat!
+
+## Skills
 
 - PHP, Laravel, Symfony, CodeIgniter
 - JavaScript, jQuery, React, Vue.js, D3.js
 - HTML5, CSS3, Bootstrap, Tailwind CSS
 - MySQL, PostgreSQL, Node.js
-- RESTful API
+- RESTful API, GraphQL
 - API Integrations (MailChimp, Stripe, Twilio, etc.)
 - Elasticsearch
 - AWS, GCP, Firebase
 - Git, Jira, Trello, Asana
 
-I am passionate about creating clean and efficient code while staying up-to-date with the latest industry trends. With a keen eye for detail and a strong problem-solving ability, I am dedicated to contributing to the success of projects and collaborating with cross-functional teams.
-
 ## My Stats
 
 <p>
-<a href="https://github.com/admscott">
+<a href="https://github.com/brandnjones">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=admscott&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brandnjones&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
