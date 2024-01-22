@@ -19,8 +19,8 @@ I'm also good at working with other people in a team and always love learning ab
 ## My Stats
 
 <p>
-<a href="https://github.com/brandnjones">
+<a href="https://github.com/jshbell">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brandnjones&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jshbell&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
