@@ -1,8 +1,8 @@
 ## About Me
  
-I'm a Full Stack PHP Developer with over 10 years of experience, specifically have expertise in Laravel, Vue.js, and React. I've worked on different projects, and I know how to make websites and apps that do what they're supposed to do.
+I'm an experienced Full Stack PHP Developer with skills in both front-end and back-end technologies. I'm good at using PHP with frameworks like Laravel, and I know my way around modern front-end tools like React and Vue.js. Handling databases, especially MySQL, PostgreSQL, and MongoDB, is something I'm comfortable with. I'm also skilled in integrating APIs and using Git for version control. I have experience in DevOps practices, like Docker for containers and Kubernetes for orchestration.
 
-I'm also good at working with other people in a team and always love learning about new technologies. If you're looking for someone like me to help with your projects, let's chat!
+Throughout my career, I've successfully contributed to different projects, focusing on delivering high-quality solutions through effective problem-solving and collaboration in Agile environments.
 
 ## Skills
 
