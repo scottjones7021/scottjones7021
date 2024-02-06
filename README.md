@@ -1,15 +1,15 @@
 ## About Me
  
-I'm an experienced Full Stack PHP Developer with skills in both front-end and back-end technologies. I'm good at using PHP with frameworks like Laravel, and I know my way around modern front-end tools like React and Vue.js. Handling databases, especially MySQL, PostgreSQL, and MongoDB, is something I'm comfortable with. I'm also skilled in integrating APIs and using Git for version control. I have experience in DevOps practices, like Docker for containers and Kubernetes for orchestration.
+I've been building websites for over 10 years as a full-stack PHP developer. I use Laravel to handle the technical stuff behind the scenes, like server logic and databases. When it comes to making websites look good, I use Vue.js and React to create user interfaces that work well. I focus on making sure users have the best experience possible.
 
-Throughout my career, I've successfully contributed to different projects, focusing on delivering high-quality solutions through effective problem-solving and collaboration in Agile environments.
+Not only am I good with tech stuff, but I'm also great at working with teams. I make sure to talk and share ideas with my team, so we all understand what the project is about. I know how to use tools like Git to manage our code and avoid any issues. I'm familiar with tools like Slack and Jira that help us communicate and organize our work. I like to share what I know, give helpful feedback, and work together with the team to get things done smoothly. My goal is to create a positive and productive team environment for successful projects.
 
 ## Skills
 
 - PHP, Laravel, Symfony, CodeIgniter
-- JavaScript, jQuery, React, Vue.js, D3.js
+- JavaScript, jQuery, React, Vue.js
 - HTML5, CSS3, Bootstrap, Tailwind CSS
-- MySQL, PostgreSQL, Node.js
+- MySQL, PostgreSQL, MongoDB
 - RESTful API, GraphQL
 - API Integrations (MailChimp, Stripe, Twilio, etc.)
 - Elasticsearch
@@ -19,8 +19,8 @@ Throughout my career, I've successfully contributed to different projects, focus
 ## My Stats
 
 <p>
-<a href="https://github.com/jshbell">
+<a href="https://github.com/tydetweiler">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jshbell&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tydetweiler&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
