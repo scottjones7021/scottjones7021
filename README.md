@@ -17,8 +17,8 @@ I'm a Senior Web Developer with 8+ years of experience and have expertise in PHP
 ## My Stats
 
 <p>
-<a href="https://github.com/davidhernandez528">
+<a href="https://github.com/dvdhernandez801">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidhernandez528&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvdhernandez801&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
