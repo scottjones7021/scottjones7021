@@ -19,8 +19,8 @@ Not only am I good with tech stuff, but I'm also great at working with teams. I 
 ## My Stats
 
 <p>
-<a href="https://github.com/tydetweiler">
+<a href="https://github.com/davidhernandez528">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tydetweiler&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidhernandez528&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
