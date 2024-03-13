@@ -1,8 +1,6 @@
 ## About Me
  
-I've been building websites for over 10 years as a full-stack PHP developer. I use Laravel to handle the technical stuff behind the scenes, like server logic and databases. When it comes to making websites look good, I use Vue.js and React to create user interfaces that work well. I focus on making sure users have the best experience possible.
-
-Not only am I good with tech stuff, but I'm also great at working with teams. I make sure to talk and share ideas with my team, so we all understand what the project is about. I know how to use tools like Git to manage our code and avoid any issues. I'm familiar with tools like Slack and Jira that help us communicate and organize our work. I like to share what I know, give helpful feedback, and work together with the team to get things done smoothly. My goal is to create a positive and productive team environment for successful projects.
+I'm a Senior Web Developer with 8+ years of experience and have expertise in PHP and Laravel to build websites and apps that work well and are easy to maintain. I'm also familiar with other important web stuff like HTML, CSS, and databases. I always love learning new things in web development and working with other people!
 
 ## Skills
 
