@@ -7,6 +7,7 @@ With 7+ years of experience, I've successfully delivered numerous web applicatio
 ## Skills
 
 - PHP, Laravel, Symfony, CodeIgniter
+- WordPress, Drupal, Craft CMS
 - JavaScript, jQuery, React, Vue.js
 - HTML5, CSS3, Bootstrap, Tailwind CSS
 - MySQL, PostgreSQL, MongoDB
