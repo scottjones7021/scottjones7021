@@ -1,8 +1,8 @@
 ## About Me
 
-I'm Marko, a full-stack developer with expertise in PHP, Laravel, React, and Vue.js. I'm also proficient in database management (MySQL, PostgreSQL, MariaDB), API integration, and security best practices.
+I have over 10 years of experience in web development, including back-end and front-end development. I specialize in building scalable, secure backend solutions using PHP and its frameworks such as Laravel, and Symfony and he's also proficient with front-end development skills like HTML, CSS, JavaScript, React, and Vue.js. I have successfully led and contributed to various projects, collaborating effectively within team environments.
 
-With 7+ years of experience, I've successfully delivered numerous web applications, CMS platforms, and e-commerce solutions for clients across diverse industries. My problem-solving skills and team leadership experience ensure successful project execution.
+I'm also dedicated to continuously learning new technologies and staying updated with the latest trends in web development. I can quickly grasp new concepts and technologies and deliver innovative solutions that meet the evolving needs of clients and projects.
 
 ## Skills
 
@@ -20,8 +20,8 @@ With 7+ years of experience, I've successfully delivered numerous web applicatio
 ## My Stats
 
 <p>
-<a href="https://github.com/markovlatkovic">
+<a href="https://github.com/scottjones7021">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markovlatkovic&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scottjones7021&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
