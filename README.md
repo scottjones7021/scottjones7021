@@ -20,8 +20,8 @@ I'm also dedicated to continuously learning new technologies and staying updated
 ## My Stats
 
 <p>
-<a href="https://github.com/scottjones7021">
+<a href="https://github.com/jamesebuen526">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scottjones7021&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamesebuen526&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
