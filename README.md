@@ -1,21 +1,20 @@
 ## About Me
 
-I have over 10 years of experience in web development, including back-end and front-end development. I specialize in building scalable, secure backend solutions using PHP and its frameworks such as Laravel, and Symfony and he's also proficient with front-end development skills like HTML, CSS, JavaScript, React, and Vue.js. I have successfully led and contributed to various projects, collaborating effectively within team environments.
+I’m a Full Stack Developer with 10+ years of experience in web development, specializing in PHP and JavaScript. I build custom web applications, SaaS platforms, and content management systems (CMS) that are fast, secure, and user-friendly. Over the years, I’ve worked with clients across many industries, including e-commerce, healthcare, education, real estate, finance, logistics, fitness, and media.
 
-I'm also dedicated to continuously learning new technologies and staying updated with the latest trends in web development. I can quickly grasp new concepts and technologies and deliver innovative solutions that meet the evolving needs of clients and projects.
+I handle both front-end and back-end development using Laravel, WordPress, Node.js, React, Vue.js, RESTful APIs, and more. I’ve helped businesses launch new products, upgrade existing platforms, and improve the performance and usability of their websites and applications.
 
-## Skills
+I also focus on writing clean, maintainable code and delivering solutions that are reliable, easy to update, and built to last. Whether you're starting from scratch or need support for an ongoing project, I’m ready to jump in. Let’s work together to bring your ideas to life!
 
-- PHP, Laravel, Symfony, CodeIgniter
-- WordPress, Drupal, Craft CMS
-- JavaScript, jQuery, React, Vue.js
-- HTML5, CSS3, Bootstrap, Tailwind CSS
-- MySQL, PostgreSQL, MongoDB
-- RESTful API, GraphQL
-- API Integrations (MailChimp, Stripe, Twilio, etc.)
-- Elasticsearch
-- AWS, GCP, Firebase
-- Git, Jira, Trello, Asana
+## Key Skills
+
+- Front-End: HTML, CSS, JavaScript (ES6+), React, Vue, Tailwind, Bootstrap
+- Back-End: PHP (Laravel, Symfony), Node.js (Express)
+- CMS & eCommerce: WordPress, WooCommerce, Drupal, Shopify
+- Databases: MySQL, PostgreSQL, MongoDB
+- APIs: RESTful APIs, third-party integrations (Stripe, Twilio, etc.)
+- DevOps: Git, Docker, AWS, CI/CD
+- Agile: Jira, Trello, Asana, ClickUp
 
 ## My Stats
 
